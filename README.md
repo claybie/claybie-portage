@@ -16,4 +16,4 @@ emaint sync -r claybie
 ```
 ## Special Thanks
 
--	[Miezhiko](https://github.com/Miezhiko/Overlay) for merging some of my other ebuilds into her repo.
+-	[Miezhiko](https://github.com/Miezhiko/Overlay), for merging some of my other ebuilds into her excellent repo; her overlay structure and philosophy have also been copied here. 
